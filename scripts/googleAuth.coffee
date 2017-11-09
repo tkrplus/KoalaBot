@@ -1,7 +1,6 @@
 # Description:
 #   Google Authentication for hubot
 #
-# 4/.AABaX1_9GqtjSrBJHpUZCnPFx-OVipBCwfAmFW2O2-K0-64gV889b8SMdYi1QEjGJuq5ZoxsaWLGL3ER6og8cMQ
 
 google = require('googleapis')
 OAuth2 = google.auth.OAuth2
